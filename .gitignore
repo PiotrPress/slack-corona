@@ -1,0 +1,7 @@
+/.idea
+/config.yaml
+/composer.lock
+/composer.phar
+/vendor
+/error.log
+/summary.json
